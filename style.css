@@ -25,7 +25,17 @@ main{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: PaleTurquoise;
+    background-color: LightSteelBlue;
+}
+.cartao{
+
+    width: 260px;
+    height: 200px;
+
+}
+.cartao-imagem{
+
+    width: 100%;
 }
 
 
